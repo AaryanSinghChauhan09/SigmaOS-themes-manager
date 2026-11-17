@@ -3,7 +3,7 @@ name = "SigmaOS-mint-themes-manager"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "mint-themes-manager component"
+description = "Themes manager for SigmaOS inspired by Linux Mint"
 upstream = []
 
 [contract]
