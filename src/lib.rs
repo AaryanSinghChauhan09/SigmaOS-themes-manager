@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-mint-themes-manager: mint themes manager component model.
+//! SigmaOS-themes-manager: mint themes manager component model.
 //!
 //! Real implementation: themes, events, validation, deterministic storage.
 //! Replaces the placeholder stub.

@@ -1,4 +1,4 @@
-# SigmaOS-mint-themes-manager
+# SigmaOS-themes-manager
 
 Themes manager for SigmaOS inspired by Linux Mint
 

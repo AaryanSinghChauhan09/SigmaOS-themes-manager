@@ -1,10 +1,10 @@
 [package]
-name = "SigmaOS-mint-themes-manager"
+name = "SigmaOS-themes-manager"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
 description = "SigmaOS mint-themes-manager component"
 
 [lib]
-name = "mint_themes_manager"
+name = "sigmaos_themes_manager"
 path = "src/lib.rs"

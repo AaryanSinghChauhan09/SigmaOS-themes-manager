@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-mint-themes-manager"
+name = "SigmaOS-themes-manager"
 tier = 2
 stability = "beta"
 language = "rust"
